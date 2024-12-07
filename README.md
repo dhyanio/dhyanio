@@ -3,6 +3,10 @@
 ### Salutations
 ![image](https://github.githubassets.com/images/mona-whisper.gif)
 
+### Distributed cache server
+
+I'm also working on [Discache](https://github.com/dhyanio/discache), is a powerful, but simple memory cache in Golang. Using TCP and binary as a transporter makes it very performant.
+
 <!--
 **dhyanio/dhyanio** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
 
